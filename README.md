@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Guru Prasath M 👋
 
-### A [Your Role, e.g., Full-Stack Developer, Data Scientist, Student] based in Vellore, India.
+### I am a VLSI Design Graduate student from VIT,Vellore.
 
 <a href="https://linkedin.com/in/[YourLinkedInUsername]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[YourLinkedInUsername]" height="30" width="40" /></a>
 <a href="https://twitter.com/[YourTwitterUsername]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[YourTwitterUsername]" height="30" width="40" /></a>
@@ -8,7 +8,7 @@
 
 ---
 
-I'm a passionate developer with a love for building innovative and user-friendly applications. I enjoy solving complex problems and learning new technologies.
+I'm a passionate Hardware Engineer with a love for building innovative and user-friendly applications. I enjoy solving complex problems and learning new technologies.
 
 - 🌱 I’m currently learning **[Technology you are learning, e.g., Go, Rust, Advanced React]**.
 - 👯 I’m looking to collaborate on **[Types of projects, e.g., open-source web applications]**.
